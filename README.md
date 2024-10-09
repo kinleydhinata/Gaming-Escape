@@ -11,6 +11,8 @@
 - [⚙️ Settings](#-settings)
 - [🙏 Credits](#-credits)
 
+![Screenshot](https://github.com/user-attachments/assets/8b381d80-7e3c-4c9c-85a0-d711877436f4)
+
 ## 📖 Introduction
 This project is a fun birthday gift that demonstrates interactive media using Python. The player takes on the role of Glebered, whose main challenge is to keep gaming without getting interrupted by people entering the room, represented by Glebered's mom or law enforcement.
 
